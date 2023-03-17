@@ -2,12 +2,6 @@ package Game;
 
 import java.util.Scanner;
 
- //class pass 
-//{
-//	{
-//			
-//		}
-//}
 class Guesser
 	{
 	int guessNum;
